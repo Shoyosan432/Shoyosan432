@@ -1,16 +1,14 @@
-### Hi there 👋
+### Boas vindas ao meu perfil : 💙
 
-<!--
-**Shoyosan432/Shoyosan432** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é João Pedro 💣
 
-Here are some ideas to get you started:
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+  
+### Você pode entrar em contato comigo : 📫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+00001080562382sp@al.educacao.sp.gov.br
+
+@jp_mauricio.1
+![ezreal-lol](https://github.com/Shoyosan432/Shoyosan432/assets/169152875/04784217-b2c8-4cb0-a80f-7e91fae04566)
