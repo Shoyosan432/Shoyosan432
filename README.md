@@ -11,4 +11,5 @@ Meu nome é João Pedro 💣
 00001080562382sp@al.educacao.sp.gov.br
 
 @jp_mauricio.1
-![ezreal-lol](https://github.com/Shoyosan432/Shoyosan432/assets/169152875/04784217-b2c8-4cb0-a80f-7e91fae04566)
+
+![mclaren](https://github.com/Shoyosan432/Shoyosan432/assets/169152875/6ee7a49c-16bf-4706-a149-a83e260584e7)
